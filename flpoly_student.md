@@ -24,4 +24,12 @@ I am _passionate about_:
 
 ***
 
+Here's a local image :
+
+![data network](dataNetwork.jpg)
+
+Here's an image from the web:
+
+![IST](https://floridapoly.edu/news/articles/2021/06/assets/060821-applicationsincrease.jpg)
+
 > Last modified: YYYY/MM/DD
