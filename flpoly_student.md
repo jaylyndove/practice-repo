@@ -1,4 +1,4 @@
-## Jaylyn Leatherwood
+## Dove Leatherwood
 
 ### 2021-2022 
 
@@ -18,7 +18,7 @@ I am _passionate about_:
 
 - Reading, especially fantasy novels!
 
-- Games, especially rhythm games!
+- Gaming, I love rhythm games and Genshin impact
 
 - Running the Florida Polycon social media, here is the [website!](flpolycon.org)
 
