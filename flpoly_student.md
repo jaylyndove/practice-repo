@@ -1,26 +1,26 @@
-## First Name Last Name
+## Jaylyn Leatherwood
 
-### Term Year 
+### 2021-2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- International and Comparative Dimensions of Business
 
-- Course 2
+- Introduction to Business Finance
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Principles of Microeconomics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Reading, especially fantasy novels!
 
-- Thing 2
+- Games, especially rhythm games!
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Running the Florida Polycon social media, here is the [website!](flpolycon.org)
 
 ***
 
@@ -44,4 +44,4 @@ Below is a sample table:
 |   Python      |Data modeling, deploying apps  | 
 |   Github      |Version control                |
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/25
